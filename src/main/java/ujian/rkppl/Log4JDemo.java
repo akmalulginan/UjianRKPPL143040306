@@ -15,17 +15,20 @@ public class Log4JDemo{
 	
 	private void runMe(String parameter){
 		
+		
 		if(logger.isDebugEnabled()){
 			logger.debug("Ini adalah debug Message : " + parameter);
 		}
 		
+		
 		if(logger.isInfoEnabled()){
-			logger.info("Ini adalah info Message: " + parameter);
+			logger.info("Ini adalah info Message : " + parameter);
 		}
 		
-		logger.warn("Ini adalah warn Message: " + parameter);
-		logger.error("Ini adalah error Message: " + parameter);
-		logger.fatal("Ini adalah fatal Message: " + parameter);
+		
+		logger.warn("Ini adalah warn Message : " + parameter);
+		logger.error("Ini adalah error Message : " + parameter);
+		logger.fatal("Ini adalah fatal Message : " + parameter);
 		
 	}
 	
