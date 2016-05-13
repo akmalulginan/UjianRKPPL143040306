@@ -21,7 +21,7 @@ public class Log4JDemo {
     public static void main(String[] args) {
 
         Log4JDemo obj = new Log4JDemo();
-        obj.Logging("Log4J");
+        obj.Logging("Contoh Log4J");
 
     }
     
