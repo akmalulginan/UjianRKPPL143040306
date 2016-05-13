@@ -3,7 +3,7 @@
 	http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong</groupId>
-	<artifactId>LoggingExample</artifactId>
+	<artifactId>ujianRKPPL133040306</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<url>http://maven.apache.org</url>
@@ -48,5 +48,6 @@
 
 		</plugins>
 	</build>
+    <name>ujianRKPPL133040306</name>
 </project>
 	
